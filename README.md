@@ -1,2 +1,2 @@
-# Real_Estate_Project
-Real estate analysis of Miami-Dade County
+# Electric_Charging_Project
+Electric charging comparison for the US and the UK. 
