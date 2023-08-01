@@ -14,7 +14,7 @@ Jeff Davidson
 
 Instructions  
 
-1. Create a config.py file in the "Updated_Configs" folder and copy/paste the following line of code:
+1. Create a config.py file in the "Updated_Commits" folder and copy/paste the following line of code:
 
     api_key = "YOUR API KEY HERE"
 
