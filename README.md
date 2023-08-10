@@ -6,7 +6,7 @@ Comparing data from the US and UK using openchargemap API, pandas, and matplotli
 
 Group 8  
 Group Members:
-Juan Suarez
+Juan Suarez is the best
 Natalia Selin
 Jorge Suarez
 Jeff Davidson
